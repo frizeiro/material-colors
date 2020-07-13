@@ -1,0 +1,99 @@
+<html>
+    
+    <header>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.1.0/chroma.min.js"></script>
+        <script type="text/javascript" src="material-colors.js"></script>
+
+        <style>
+            pre {
+                width: 30%;
+                float: left;
+            }
+
+            .fields {
+                margin-bottom: 40px;
+            }
+
+            .fields label {
+                display: inline-block;
+                width: 130px;
+                cursor: pointer;
+            }
+
+            .fields input {
+                cursor: pointer;
+                margin-right: 10px;
+            }
+        </style>
+    </header>
+
+    <body>
+        <div>
+            <div class="fields">
+                <label><input type="checkbox" name="Color" value="Red" checked>Red</label>
+                <label><input type="checkbox" name="Color" value="Pink" checked>Pink</label>
+                <label><input type="checkbox" name="Color" value="Purple" checked>Purple</label>
+                <label><input type="checkbox" name="Color" value="Deep Purple" checked>Deep Purple</label>
+                <label><input type="checkbox" name="Color" value="Indigo" checked>Indigo</label>
+                <label><input type="checkbox" name="Color" value="Blue" checked>Blue</label>
+                <label><input type="checkbox" name="Color" value="Light Blue" checked>Light Blue</label>
+                <label><input type="checkbox" name="Color" value="Cyan" checked>Cyan</label>
+                <label><input type="checkbox" name="Color" value="Teal" checked>Teal</label>
+                <label><input type="checkbox" name="Color" value="Green" checked>Green</label>
+                <label><input type="checkbox" name="Color" value="Light Green" checked>Light Green</label>
+                <label><input type="checkbox" name="Color" value="Lime" checked>Lime</label>
+                <label><input type="checkbox" name="Color" value="Yellow" checked>Yellow</label>
+                <label><input type="checkbox" name="Color" value="Amber" checked>Amber</label>
+                <label><input type="checkbox" name="Color" value="Orange" checked>Orange</label>
+                <label><input type="checkbox" name="Color" value="Deep Orange" checked>Deep Orange</label>
+                <label><input type="checkbox" name="Color" value="Brown" checked>Brown</label>
+                <label><input type="checkbox" name="Color" value="Grey" checked>Grey</label>
+                <label><input type="checkbox" name="Color" value="Blue Grey" checked>Blue Grey</label>
+            </div>
+        </div>
+
+        <pre id="json1"></pre>
+        <pre id="json2"></pre>
+    </body>
+
+    <script>
+        var bodyJson = document.getElementById("json1");
+        var bodyAndroid = document.getElementById("json2");
+        var checkboxColor = $('input[type=checkbox][name=Color]');
+
+        function generate() {
+            bodyJson.innerHTML = "";
+            bodyAndroid.innerHTML = "";
+            
+            var finalColors = new Array();
+
+            $.each( colors, function( key, value ) {
+                for (i = 0; i < checkboxColor.length; i++) {
+                    if (checkboxColor[i].value == value.name && !checkboxColor[i].checked) {
+                        return
+                    }
+                }
+
+                colors[key].light = chroma(value.color).brighten().hex().toUpperCase();
+                colors[key].dark = chroma(value.color).darken().hex().toUpperCase();
+                colors[key].text = chroma.contrast(value.color, '#000000') >= 4.5 ? "#000000" : "#FFFFFF";
+
+                finalColors.push(colors[key])
+
+                var name = colors[key].name.toLowerCase().replace(" ", "_") + "_" + colors[key].weight;
+                bodyAndroid.append("<color name=\""+name+"\">"+colors[key].color+"</color>\n");
+                bodyAndroid.append("<color name=\""+name+"_dark\">"+colors[key].dark+"</color>\n");
+                bodyAndroid.append("<color name=\""+name+"_light\">"+colors[key].light+"</color>\n");
+                bodyAndroid.append("\n");
+            });
+
+            bodyJson.innerHTML = JSON.stringify(finalColors, null, 2);            
+        }
+
+
+        $('input[type=checkbox]').click(function() {
+            generate();
+        });
+    </script>
+</html>
