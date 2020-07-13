@@ -4,42 +4,42 @@ Material color palette in development format, such as JSON and Android XML.
 # JSON example
 ```json
 {
-    "name:": "Indigo",
-    "weight": "100",
-    "color": "#C5CAE9",
-    "light": "#f8fdff",
-    "dark": "#9499b7",
-    "text": "#000000"
-},
-{
-    "name:": "Indigo",
-    "weight": "200",
-    "color": "#9FA8DA",
-    "light": "#d1d9ff",
-    "dark": "#6f79a8",
-    "text": "#000000"
-},
-{
-    "name:": "Indigo",
+    "name": "Teal",
     "weight": "300",
-    "color": "#7986CB",
-    "light": "#aab6fe",
-    "dark": "#49599a",
+    "color": "#4DB6AC",
+    "light": "#82E9DE",
+    "dark": "#00867D",
+    "text": "#000000"
+},
+{
+    "name": "Teal",
+    "weight": "400",
+    "color": "#26A69A",
+    "light": "#64D8CB",
+    "dark": "#00766C",
+    "text": "#000000"
+},
+{
+    "name": "Teal",
+    "weight": "500",
+    "color": "#009688",
+    "light": "#52C7B8",
+    "dark": "#00675B",
     "text": "#000000"
 }
 ```
 
 # Android XML example
 ```xml
-<color name="indigo_50">#E8EAF6</color>
-<color name="indigo_50_dark">#B6B8C3</color>
-<color name="indigo_50_light">#FFFFFF</color>
+<color name="teal_300">#4DB6AC</color>
+<color name="teal_300_dark">#00867D</color>
+<color name="teal_300_light">#82E9DE</color>
 
-<color name="indigo_100">#C5CAE9</color>
-<color name="indigo_100_dark">#9499B7</color>
-<color name="indigo_100_light">#F8FDFF</color>
+<color name="teal_400">#26A69A</color>
+<color name="teal_400_dark">#00766C</color>
+<color name="teal_400_light">#64D8CB</color>
 
-<color name="indigo_200">#9FA8DA</color>
-<color name="indigo_200_dark">#6F79A8</color>
-<color name="indigo_200_light">#D1D9FF</color>
+<color name="teal_500">#009688</color>
+<color name="teal_500_dark">#00675B</color>
+<color name="teal_500_light">#52C7B8</color>
 ```
