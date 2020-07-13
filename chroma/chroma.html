@@ -23,6 +23,9 @@
         var bodyAndroid = document.getElementById("json2");
 
         $.each( colors, function( key, value ) {
+            // bodyAndroid.append(colors[key].name+"\n");
+            // return;
+            
             colors[key].light = chroma(value.color).brighten().hex().toUpperCase();
             colors[key].dark = chroma(value.color).darken().hex().toUpperCase();
             colors[key].text = chroma.contrast(value.color, '#000000') >= 4.5 ? "#000000" : "#FFFFFF";
