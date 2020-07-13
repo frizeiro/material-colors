@@ -1,0 +1,4066 @@
+[
+    {
+        "name:": "Red",
+        "weight": "50",
+        "color": "#FFEBEE",
+        "light": "#ffffff",
+        "dark": "#ccb9bc",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "100",
+        "color": "#FFCDD2",
+        "light": "#ffffff",
+        "dark": "#cb9ca1",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "200",
+        "color": "#EF9A9A",
+        "light": "#ffcccb",
+        "dark": "#ba6b6c",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "300",
+        "color": "#E57373",
+        "light": "#ffa4a2",
+        "dark": "#af4448",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "400",
+        "color": "#EF5350",
+        "light": "#ff867c",
+        "dark": "#b61827",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "500",
+        "color": "#F44336",
+        "light": "#ff7961",
+        "dark": "#ba000d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "600",
+        "color": "#E53935",
+        "light": "#ff6f60",
+        "dark": "#ab000d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "700",
+        "color": "#D32F2F",
+        "light": "#ff6659",
+        "dark": "#9a0007",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Red",
+        "weight": "800",
+        "color": "#C62828",
+        "light": "#ff5f52",
+        "dark": "#8e0000",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Red",
+        "weight": "900",
+        "color": "#B71C1C",
+        "light": "#f05545",
+        "dark": "#7f0000",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Red",
+        "weight": "A100",
+        "color": "#FF8A80",
+        "light": "#ffbcaf",
+        "dark": "#c85a54",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "A200",
+        "color": "#FF5252",
+        "light": "#ff867f",
+        "dark": "#c50e29",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "A400",
+        "color": "#FF1744",
+        "light": "#ff616f",
+        "dark": "#c4001d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "A700",
+        "color": "#D50000",
+        "light": "#ff5131",
+        "dark": "#9b0000",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Pink",
+        "weight": "50",
+        "color": "#FCE4EC",
+        "light": "#ffffff",
+        "dark": "#c9b2ba",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "100",
+        "color": "#F8BBD0",
+        "light": "#ffeeff",
+        "dark": "#c48b9f",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "200",
+        "color": "#F48FB1",
+        "light": "#ffc1e3",
+        "dark": "#bf5f82",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "300",
+        "color": "#F06292",
+        "light": "#ff94c2",
+        "dark": "#ba2d65",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "400",
+        "color": "#EC407A",
+        "light": "#ff77a9",
+        "dark": "#b4004e",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "500",
+        "color": "#E91E63",
+        "light": "#ff6090",
+        "dark": "#b0003a",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "600",
+        "color": "#D81B60",
+        "light": "#ff5c8d",
+        "dark": "#a00037",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Pink",
+        "weight": "700",
+        "color": "#C2185B",
+        "light": "#fa5788",
+        "dark": "#8c0032",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Pink",
+        "weight": "800",
+        "color": "#AD1457",
+        "light": "#e35183",
+        "dark": "#78002e",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Pink",
+        "weight": "900",
+        "color": "#880E4F",
+        "light": "#bc477b",
+        "dark": "#560027",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Pink",
+        "weight": "A100",
+        "color": "#FF80AB",
+        "light": "#ffb2dd",
+        "dark": "#c94f7c",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "A200",
+        "color": "#FF4081",
+        "light": "#ff79b0",
+        "dark": "#c60055",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "A400",
+        "color": "#F50057",
+        "light": "#ff5983",
+        "dark": "#bb002f",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "A700",
+        "color": "#C51162",
+        "light": "#fd558f",
+        "dark": "#8e0038",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Purple",
+        "weight": "50",
+        "color": "#F3E5F5",
+        "light": "#ffffff",
+        "dark": "#c0b3c2",
+        "text": "#000000"
+    },
+    {
+        "name:": "Purple",
+        "weight": "100",
+        "color": "#E1BEE7",
+        "light": "#fff1ff",
+        "dark": "#af8eb5",
+        "text": "#000000"
+    },
+    {
+        "name:": "Purple",
+        "weight": "200",
+        "color": "#CE93D8",
+        "light": "#ffc4ff",
+        "dark": "#9c64a6",
+        "text": "#000000"
+    },
+    {
+        "name:": "Purple",
+        "weight": "300",
+        "color": "#BA68C8",
+        "light": "#ee98fb",
+        "dark": "#883997",
+        "text": "#000000"
+    },
+    {
+        "name:": "Purple",
+        "weight": "400",
+        "color": "#AB47BC",
+        "light": "#df78ef",
+        "dark": "#790e8b",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Purple",
+        "weight": "500",
+        "color": "#9C27B0",
+        "light": "#d05ce3",
+        "dark": "#6a0080",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Purple",
+        "weight": "600",
+        "color": "#8E24AA",
+        "light": "#c158dc",
+        "dark": "#5c007a",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Purple",
+        "weight": "700",
+        "color": "#7B1FA2",
+        "light": "#ae52d4",
+        "dark": "#4a0072",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Purple",
+        "weight": "800",
+        "color": "#6A1B9A",
+        "light": "#9c4dcc",
+        "dark": "#38006b",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Purple",
+        "weight": "900",
+        "color": "#4A148C",
+        "light": "#7c43bd",
+        "dark": "#12005e",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Purple",
+        "weight": "A100",
+        "color": "#EA80FC",
+        "light": "#ffb2ff",
+        "dark": "#b64fc8",
+        "text": "#000000"
+    },
+    {
+        "name:": "Purple",
+        "weight": "A200",
+        "color": "#E040FB",
+        "light": "#ff79ff",
+        "dark": "#aa00c7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Purple",
+        "weight": "A400",
+        "color": "#D500F9",
+        "light": "#ff5bff",
+        "dark": "#9e00c5",
+        "text": "#000000"
+    },
+    {
+        "name:": "Purple",
+        "weight": "A700",
+        "color": "#AA00FF",
+        "light": "#e254ff",
+        "dark": "#7200ca",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "50",
+        "color": "#EDE7F6",
+        "light": "#ffffff",
+        "dark": "#bbb5c3",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "100",
+        "color": "#D1C4E9",
+        "light": "#fff7ff",
+        "dark": "#a094b7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "200",
+        "color": "#B39DDB",
+        "light": "#e6ceff",
+        "dark": "#836fa9",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "300",
+        "color": "#9575CD",
+        "light": "#c7a4ff",
+        "dark": "#65499c",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "400",
+        "color": "#7E57C2",
+        "light": "#b085f5",
+        "dark": "#4d2c91",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "500",
+        "color": "#673AB7",
+        "light": "#9a67ea",
+        "dark": "#320b86",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "600",
+        "color": "#5E35B1",
+        "light": "#9162e4",
+        "dark": "#280680",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "700",
+        "color": "#512DA8",
+        "light": "#8559da",
+        "dark": "#140078",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "800",
+        "color": "#4527A0",
+        "light": "#7953d2",
+        "dark": "#000070",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "900",
+        "color": "#311B92",
+        "light": "#6746c3",
+        "dark": "#000063",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "A100",
+        "color": "#B388FF",
+        "light": "#e7b9ff",
+        "dark": "#805acb",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "A200",
+        "color": "#7C4DFF",
+        "light": "#b47cff",
+        "dark": "#3f1dcb",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "A400",
+        "color": "#651FFF",
+        "light": "#a255ff",
+        "dark": "#0100ca",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "A700",
+        "color": "#6200EA",
+        "light": "#9d46ff",
+        "dark": "#0a00b6",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "50",
+        "color": "#E8EAF6",
+        "light": "#ffffff",
+        "dark": "#b6b8c3",
+        "text": "#000000"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "100",
+        "color": "#C5CAE9",
+        "light": "#f8fdff",
+        "dark": "#9499b7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "200",
+        "color": "#9FA8DA",
+        "light": "#d1d9ff",
+        "dark": "#6f79a8",
+        "text": "#000000"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "300",
+        "color": "#7986CB",
+        "light": "#aab6fe",
+        "dark": "#49599a",
+        "text": "#000000"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "400",
+        "color": "#5C6BC0",
+        "light": "#8e99f3",
+        "dark": "#26418f",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "500",
+        "color": "#3F51B5",
+        "light": "#757de8",
+        "dark": "#002984",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "600",
+        "color": "#3949AB",
+        "light": "#6f74dd",
+        "dark": "#00227b",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "700",
+        "color": "#303F9F",
+        "light": "#666ad1",
+        "dark": "#001970",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "800",
+        "color": "#283593",
+        "light": "#5f5fc4",
+        "dark": "#001064",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "900",
+        "color": "#1A237E",
+        "light": "#534bae",
+        "dark": "#000051",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "A100",
+        "color": "#8C9EFF",
+        "light": "#c0cfff",
+        "dark": "#5870cb",
+        "text": "#000000"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "A200",
+        "color": "#536DFE",
+        "light": "#8f9bff",
+        "dark": "#0043ca",
+        "text": "#000000"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "A400",
+        "color": "#3D5AFE",
+        "light": "#8187ff",
+        "dark": "#0031ca",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "A700",
+        "color": "#304FFE",
+        "light": "#7a7cff",
+        "dark": "#0026ca",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Blue",
+        "weight": "50",
+        "color": "#E3F2FD",
+        "light": "#ffffff",
+        "dark": "#b1bfca",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "100",
+        "color": "#BBDEFB",
+        "light": "#eeffff",
+        "dark": "#8aacc8",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "200",
+        "color": "#90CAF9",
+        "light": "#c3fdff",
+        "dark": "#5d99c6",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "300",
+        "color": "#64B5F6",
+        "light": "#9be7ff",
+        "dark": "#2286c3",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "400",
+        "color": "#42A5F5",
+        "light": "#80d6ff",
+        "dark": "#0077c2",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "500",
+        "color": "#2196F3",
+        "light": "#6ec6ff",
+        "dark": "#0069c0",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "600",
+        "color": "#1E88E5",
+        "light": "#6ab7ff",
+        "dark": "#005cb2",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "700",
+        "color": "#1976D2",
+        "light": "#63a4ff",
+        "dark": "#004ba0",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "800",
+        "color": "#1565C0",
+        "light": "#5e92f3",
+        "dark": "#003c8f",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Blue",
+        "weight": "900",
+        "color": "#0D47A1",
+        "light": "#5472d3",
+        "dark": "#002171",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Blue",
+        "weight": "A100",
+        "color": "#82B1FF",
+        "light": "#b6e3ff",
+        "dark": "#4d82cb",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "A200",
+        "color": "#448AFF",
+        "light": "#83b9ff",
+        "dark": "#005ecb",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "A400",
+        "color": "#2979FF",
+        "light": "#75a7ff",
+        "dark": "#004ecb",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "A700",
+        "color": "#2962FF",
+        "light": "#768fff",
+        "dark": "#0039cb",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "50",
+        "color": "#E1F5FE",
+        "light": "#ffffff",
+        "dark": "#afc2cb",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "100",
+        "color": "#B3E5FC",
+        "light": "#e6ffff",
+        "dark": "#82b3c9",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "200",
+        "color": "#81D4FA",
+        "light": "#b6ffff",
+        "dark": "#4ba3c7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "300",
+        "color": "#4FC3F7",
+        "light": "#8bf6ff",
+        "dark": "#0093c4",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "400",
+        "color": "#29B6F6",
+        "light": "#73e8ff",
+        "dark": "#0086c3",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "500",
+        "color": "#03A9F4",
+        "light": "#67daff",
+        "dark": "#007ac1",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "600",
+        "color": "#039BE5",
+        "light": "#63ccff",
+        "dark": "#006db3",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "700",
+        "color": "#0288D1",
+        "light": "#5eb8ff",
+        "dark": "#005b9f",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "800",
+        "color": "#0277BD",
+        "light": "#58a5f0",
+        "dark": "#004c8c",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "900",
+        "color": "#01579B",
+        "light": "#4f83cc",
+        "dark": "#002f6c",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "A100",
+        "color": "#80D8FF",
+        "light": "#b5ffff",
+        "dark": "#49a7cc",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "A200",
+        "color": "#40C4FF",
+        "light": "#82f7ff",
+        "dark": "#0094cc",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "A400",
+        "color": "#00B0FF",
+        "light": "#69e2ff",
+        "dark": "#0081cb",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "A700",
+        "color": "#0091EA",
+        "light": "#64c1ff",
+        "dark": "#0064b7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "50",
+        "color": "#E0F7FA",
+        "light": "#ffffff",
+        "dark": "#aec4c7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "100",
+        "color": "#B2EBF2",
+        "light": "#e5ffff",
+        "dark": "#81b9bf",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "200",
+        "color": "#80DEEA",
+        "light": "#b4ffff",
+        "dark": "#4bacb8",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "300",
+        "color": "#4DD0E1",
+        "light": "#88ffff",
+        "dark": "#009faf",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "400",
+        "color": "#26C6DA",
+        "light": "#6ff9ff",
+        "dark": "#0095a8",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "500",
+        "color": "#00BCD4",
+        "light": "#62efff",
+        "dark": "#008ba3",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "600",
+        "color": "#00ACC1",
+        "light": "#5ddef4",
+        "dark": "#007c91",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "700",
+        "color": "#0097A7",
+        "light": "#56c8d8",
+        "dark": "#006978",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "800",
+        "color": "#00838F",
+        "light": "#4fb3bf",
+        "dark": "#005662",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "900",
+        "color": "#006064",
+        "light": "#428e92",
+        "dark": "#00363a",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "A100",
+        "color": "#84FFFF",
+        "light": "#baffff",
+        "dark": "#4bcbcc",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "A200",
+        "color": "#18FFFF",
+        "light": "#76ffff",
+        "dark": "#00cbcc",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "A400",
+        "color": "#00E5FF",
+        "light": "#6effff",
+        "dark": "#00b2cc",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "A700",
+        "color": "#00B8D4",
+        "light": "#62ebff",
+        "dark": "#0088a3",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "50",
+        "color": "#E0F2F1",
+        "light": "#ffffff",
+        "dark": "#aebfbe",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "100",
+        "color": "#B2DFDB",
+        "light": "#e5ffff",
+        "dark": "#82ada9",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "200",
+        "color": "#80CBC4",
+        "light": "#b2fef7",
+        "dark": "#4f9a94",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "300",
+        "color": "#4DB6AC",
+        "light": "#82e9de",
+        "dark": "#00867d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "400",
+        "color": "#26A69A",
+        "light": "#64d8cb",
+        "dark": "#00766c",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "500",
+        "color": "#009688",
+        "light": "#52c7b8",
+        "dark": "#00675b",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "600",
+        "color": "#00897B",
+        "light": "#4ebaaa",
+        "dark": "#005b4f",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "700",
+        "color": "#00796B",
+        "light": "#48a999",
+        "dark": "#004c40",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Teal",
+        "weight": "800",
+        "color": "#00695C",
+        "light": "#439889",
+        "dark": "#003d33",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Teal",
+        "weight": "900",
+        "color": "#004D40",
+        "light": "#39796b",
+        "dark": "#00251a",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Teal",
+        "weight": "A100",
+        "color": "#A7FFEB",
+        "light": "#dbffff",
+        "dark": "#75ccb9",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "A200",
+        "color": "#64FFDA",
+        "light": "#9effff",
+        "dark": "#14cba8",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "A400",
+        "color": "#1DE9B6",
+        "light": "#6effe8",
+        "dark": "#00b686",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "A700",
+        "color": "#00BFA5",
+        "light": "#5df2d6",
+        "dark": "#008e76",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "50",
+        "color": "#E8F5E9",
+        "light": "#ffffff",
+        "dark": "#b6c2b7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "100",
+        "color": "#C8E6C9",
+        "light": "#fbfffc",
+        "dark": "#97b498",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "200",
+        "color": "#A5D6A7",
+        "light": "#d7ffd9",
+        "dark": "#75a478",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "300",
+        "color": "#81C784",
+        "light": "#b2fab4",
+        "dark": "#519657",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "400",
+        "color": "#66BB6A",
+        "light": "#98ee99",
+        "dark": "#338a3e",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "500",
+        "color": "#4CAF50",
+        "light": "#80e27e",
+        "dark": "#087f23",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "600",
+        "color": "#43A047",
+        "light": "#76d275",
+        "dark": "#00701a",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "700",
+        "color": "#388E3C",
+        "light": "#6abf69",
+        "dark": "#00600f",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "800",
+        "color": "#2E7D32",
+        "light": "#60ad5e",
+        "dark": "#005005",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Green",
+        "weight": "900",
+        "color": "#1B5E20",
+        "light": "#4c8c4a",
+        "dark": "#003300",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Green",
+        "weight": "A100",
+        "color": "#B9F6CA",
+        "light": "#ecfffd",
+        "dark": "#88c399",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "A200",
+        "color": "#69F0AE",
+        "light": "#9fffe0",
+        "dark": "#2bbd7e",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "A400",
+        "color": "#00E676",
+        "light": "#66ffa6",
+        "dark": "#00b248",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "A700",
+        "color": "#00C853",
+        "light": "#5efc82",
+        "dark": "#009624",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "50",
+        "color": "#F1F8E9",
+        "light": "#ffffff",
+        "dark": "#bec5b7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "100",
+        "color": "#DCEDC8",
+        "light": "#fffffb",
+        "dark": "#aabb97",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "200",
+        "color": "#C5E1A5",
+        "light": "#f8ffd7",
+        "dark": "#94af76",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "300",
+        "color": "#AED581",
+        "light": "#e1ffb1",
+        "dark": "#7da453",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "400",
+        "color": "#9CCC65",
+        "light": "#cfff95",
+        "dark": "#6b9b37",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "500",
+        "color": "#8BC34A",
+        "light": "#bef67a",
+        "dark": "#5a9216",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "600",
+        "color": "#7CB342",
+        "light": "#aee571",
+        "dark": "#4b830d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "700",
+        "color": "#689F38",
+        "light": "#99d066",
+        "dark": "#387002",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "800",
+        "color": "#558B2F",
+        "light": "#85bb5c",
+        "dark": "#255d00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "900",
+        "color": "#33691E",
+        "light": "#629749",
+        "dark": "#003d00",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "A100",
+        "color": "#CCFF90",
+        "light": "#ffffc2",
+        "dark": "#99cc60",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "A200",
+        "color": "#B2FF59",
+        "light": "#e7ff8c",
+        "dark": "#7ecb20",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "A400",
+        "color": "#76FF03",
+        "light": "#b0ff57",
+        "dark": "#32cb00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "A700",
+        "color": "#64DD17",
+        "light": "#9cff57",
+        "dark": "#1faa00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "50",
+        "color": "#F9FBE7",
+        "light": "#ffffff",
+        "dark": "#c6c8b5",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "100",
+        "color": "#F0F4C3",
+        "light": "#fffff6",
+        "dark": "#bdc192",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "200",
+        "color": "#E6EE9C",
+        "light": "#ffffce",
+        "dark": "#b3bc6d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "300",
+        "color": "#DCE775",
+        "light": "#ffffa6",
+        "dark": "#a8b545",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "400",
+        "color": "#D4E157",
+        "light": "#ffff89",
+        "dark": "#a0af22",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "500",
+        "color": "#CDDC39",
+        "light": "#ffff6e",
+        "dark": "#99aa00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "600",
+        "color": "#C0CA33",
+        "light": "#f5fd67",
+        "dark": "#8c9900",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "700",
+        "color": "#AFB42B",
+        "light": "#e4e65e",
+        "dark": "#7c8500",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "800",
+        "color": "#9E9D24",
+        "light": "#d2ce56",
+        "dark": "#6c6f00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "900",
+        "color": "#827717",
+        "light": "#b4a647",
+        "dark": "#524c00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "A100",
+        "color": "#F4FF81",
+        "light": "#ffffb3",
+        "dark": "#bfcc50",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "A200",
+        "color": "#EEFF41",
+        "light": "#ffff78",
+        "dark": "#b8cc00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "A400",
+        "color": "#C6FF00",
+        "light": "#fdff58",
+        "dark": "#90cc00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "A700",
+        "color": "#AEEA00",
+        "light": "#e4ff54",
+        "dark": "#79b700",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "50",
+        "color": "#FFFDE7",
+        "light": "#ffffff",
+        "dark": "#cccab5",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "100",
+        "color": "#FFF9C4",
+        "light": "#fffff7",
+        "dark": "#cbc693",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "200",
+        "color": "#FFF59D",
+        "light": "#ffffcf",
+        "dark": "#cbc26d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "300",
+        "color": "#FFF176",
+        "light": "#ffffa8",
+        "dark": "#cabf45",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "400",
+        "color": "#FFEE58",
+        "light": "#ffff8b",
+        "dark": "#c9bc1f",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "500",
+        "color": "#FFEB3B",
+        "light": "#ffff72",
+        "dark": "#c8b900",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "600",
+        "color": "#FDD835",
+        "light": "#ffff6b",
+        "dark": "#c6a700",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "700",
+        "color": "#FBC02D",
+        "light": "#fff263",
+        "dark": "#c49000",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "800",
+        "color": "#F9A825",
+        "light": "#ffd95a",
+        "dark": "#c17900",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "900",
+        "color": "#F57F17",
+        "light": "#ffb04c",
+        "dark": "#bc5100",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "A100",
+        "color": "#FFFF8D",
+        "light": "#ffffbf",
+        "dark": "#cacc5d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "A200",
+        "color": "#FFFF00",
+        "light": "#ffff5a",
+        "dark": "#c7cc00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "A400",
+        "color": "#FFEA00",
+        "light": "#ffff56",
+        "dark": "#c7b800",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "A700",
+        "color": "#FFD600",
+        "light": "#ffff52",
+        "dark": "#c7a500",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "50",
+        "color": "#FFF8E1",
+        "light": "#ffffff",
+        "dark": "#ccc5af",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "100",
+        "color": "#FFECB3",
+        "light": "#ffffe5",
+        "dark": "#cbba83",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "200",
+        "color": "#FFE082",
+        "light": "#ffffb3",
+        "dark": "#caae53",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "300",
+        "color": "#FFD54F",
+        "light": "#ffff81",
+        "dark": "#c8a415",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "400",
+        "color": "#FFCA28",
+        "light": "#fffd61",
+        "dark": "#c79a00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "500",
+        "color": "#FFC107",
+        "light": "#fff350",
+        "dark": "#c79100",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "600",
+        "color": "#FFB300",
+        "light": "#ffe54c",
+        "dark": "#c68400",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "700",
+        "color": "#FFA000",
+        "light": "#ffd149",
+        "dark": "#c67100",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "800",
+        "color": "#FF8F00",
+        "light": "#ffc046",
+        "dark": "#c56000",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "900",
+        "color": "#FF6F00",
+        "light": "#ffa040",
+        "dark": "#c43e00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "A100",
+        "color": "#FFE57F",
+        "light": "#ffffb0",
+        "dark": "#cab350",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "A200",
+        "color": "#FFD740",
+        "light": "#ffff74",
+        "dark": "#c8a600",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "A400",
+        "color": "#FFC400",
+        "light": "#fff64f",
+        "dark": "#c79400",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "A700",
+        "color": "#FFAB00",
+        "light": "#ffdd4b",
+        "dark": "#c67c00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "50",
+        "color": "#FFF3E0",
+        "light": "#ffffff",
+        "dark": "#ccc0ae",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "100",
+        "color": "#FFE0B2",
+        "light": "#ffffe4",
+        "dark": "#cbae82",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "200",
+        "color": "#FFCC80",
+        "light": "#ffffb0",
+        "dark": "#ca9b52",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "300",
+        "color": "#FFB74D",
+        "light": "#ffe97d",
+        "dark": "#c88719",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "400",
+        "color": "#FFA726",
+        "light": "#ffd95b",
+        "dark": "#c77800",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "500",
+        "color": "#FF9800",
+        "light": "#ffc947",
+        "dark": "#c66900",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "600",
+        "color": "#FB8C00",
+        "light": "#ffbd45",
+        "dark": "#c25e00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "700",
+        "color": "#F57C00",
+        "light": "#ffad42",
+        "dark": "#bb4d00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "800",
+        "color": "#EF6C00",
+        "light": "#ff9d3f",
+        "dark": "#b53d00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "900",
+        "color": "#E65100",
+        "light": "#ff833a",
+        "dark": "#ac1900",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "A100",
+        "color": "#FFD180",
+        "light": "#ffffb1",
+        "dark": "#caa052",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "A200",
+        "color": "#FFAB40",
+        "light": "#ffdd71",
+        "dark": "#c77c02",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "A400",
+        "color": "#FF9100",
+        "light": "#ffc246",
+        "dark": "#c56200",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "A700",
+        "color": "#FF6D00",
+        "light": "#ff9e40",
+        "dark": "#c43c00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "50",
+        "color": "#FBE9E7",
+        "light": "#ffffff",
+        "dark": "#c8b7b5",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "100",
+        "color": "#FFCCBC",
+        "light": "#ffffee",
+        "dark": "#cb9b8c",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "200",
+        "color": "#FFAB91",
+        "light": "#ffddc1",
+        "dark": "#c97b63",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "300",
+        "color": "#FF8A65",
+        "light": "#ffbb93",
+        "dark": "#c75b39",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "400",
+        "color": "#FF7043",
+        "light": "#ffa270",
+        "dark": "#c63f17",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "500",
+        "color": "#FF5722",
+        "light": "#ff8a50",
+        "dark": "#c41c00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "600",
+        "color": "#F4511E",
+        "light": "#ff844c",
+        "dark": "#b91400",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "700",
+        "color": "#E64A19",
+        "light": "#ff7d47",
+        "dark": "#ac0800",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "800",
+        "color": "#D84315",
+        "light": "#ff7543",
+        "dark": "#9f0000",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "900",
+        "color": "#BF360C",
+        "light": "#f9683a",
+        "dark": "#870000",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "A100",
+        "color": "#FF9E80",
+        "light": "#ffd0b0",
+        "dark": "#c96f53",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "A200",
+        "color": "#FF6E40",
+        "light": "#ffa06d",
+        "dark": "#c53d13",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "A400",
+        "color": "#FF3D00",
+        "light": "#ff7539",
+        "dark": "#c30000",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "A700",
+        "color": "#DD2C00",
+        "light": "#ff6434",
+        "dark": "#a30000",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Brown",
+        "weight": "50",
+        "color": "#EFEBE9",
+        "light": "#ffffff",
+        "dark": "#bdb9b7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Brown",
+        "weight": "100",
+        "color": "#D7CCC8",
+        "light": "#fffffb",
+        "dark": "#a69b97",
+        "text": "#000000"
+    },
+    {
+        "name:": "Brown",
+        "weight": "200",
+        "color": "#BCAAA4",
+        "light": "#efdcd5",
+        "dark": "#8c7b75",
+        "text": "#000000"
+    },
+    {
+        "name:": "Brown",
+        "weight": "300",
+        "color": "#A1887F",
+        "light": "#d3b8ae",
+        "dark": "#725b53",
+        "text": "#000000"
+    },
+    {
+        "name:": "Brown",
+        "weight": "400",
+        "color": "#8D6E63",
+        "light": "#be9c91",
+        "dark": "#5f4339",
+        "text": "#000000"
+    },
+    {
+        "name:": "Brown",
+        "weight": "500",
+        "color": "#795548",
+        "light": "#a98274",
+        "dark": "#4b2c20",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Brown",
+        "weight": "600",
+        "color": "#6D4C41",
+        "light": "#9c786c",
+        "dark": "#40241a",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Brown",
+        "weight": "700",
+        "color": "#5D4037",
+        "light": "#8b6b61",
+        "dark": "#321911",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Brown",
+        "weight": "800",
+        "color": "#4E342E",
+        "light": "#7b5e57",
+        "dark": "#260e04",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Brown",
+        "weight": "900",
+        "color": "#3E2723",
+        "light": "#6a4f4b",
+        "dark": "#1b0000",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Grey",
+        "weight": "50",
+        "color": "#FAFAFA",
+        "light": "#ffffff",
+        "dark": "#c7c7c7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Grey",
+        "weight": "100",
+        "color": "#F5F5F5",
+        "light": "#ffffff",
+        "dark": "#c2c2c2",
+        "text": "#000000"
+    },
+    {
+        "name:": "Grey",
+        "weight": "200",
+        "color": "#EEEEEE",
+        "light": "#ffffff",
+        "dark": "#bcbcbc",
+        "text": "#000000"
+    },
+    {
+        "name:": "Grey",
+        "weight": "300",
+        "color": "#E0E0E0",
+        "light": "#ffffff",
+        "dark": "#aeaeae",
+        "text": "#000000"
+    },
+    {
+        "name:": "Grey",
+        "weight": "400",
+        "color": "#BDBDBD",
+        "light": "#efefef",
+        "dark": "#8d8d8d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Grey",
+        "weight": "500",
+        "color": "#9E9E9E",
+        "light": "#cfcfcf",
+        "dark": "#707070",
+        "text": "#000000"
+    },
+    {
+        "name:": "Grey",
+        "weight": "600",
+        "color": "#757575",
+        "light": "#a4a4a4",
+        "dark": "#494949",
+        "text": "#000000"
+    },
+    {
+        "name:": "Grey",
+        "weight": "700",
+        "color": "#616161",
+        "light": "#8e8e8e",
+        "dark": "#373737",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Grey",
+        "weight": "800",
+        "color": "#424242",
+        "light": "#6d6d6d",
+        "dark": "#1b1b1b",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Grey",
+        "weight": "900",
+        "color": "#212121",
+        "light": "#484848",
+        "dark": "#000000",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "50",
+        "color": "#ECEFF1",
+        "light": "#ffffff",
+        "dark": "#babdbe",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "100",
+        "color": "#CFD8DC",
+        "light": "#ffffff",
+        "dark": "#9ea7aa",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "200",
+        "color": "#B0BEC5",
+        "light": "#e2f1f8",
+        "dark": "#808e95",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "300",
+        "color": "#90A4AE",
+        "light": "#c1d5e0",
+        "dark": "#62757f",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "400",
+        "color": "#78909C",
+        "light": "#a7c0cd",
+        "dark": "#4b636e",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "500",
+        "color": "#607D8B",
+        "light": "#8eacbb",
+        "dark": "#34515e",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "600",
+        "color": "#546E7A",
+        "light": "#819ca9",
+        "dark": "#29434e",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "700",
+        "color": "#455A64",
+        "light": "#718792",
+        "dark": "#1c313a",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "800",
+        "color": "#37474F",
+        "light": "#62727b",
+        "dark": "#102027",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "900",
+        "color": "#263238",
+        "light": "#4f5b62",
+        "dark": "#000a12",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Red",
+        "weight": "50",
+        "color": "#FFEBEE",
+        "light": "#ffffff",
+        "dark": "#ccb9bc",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "100",
+        "color": "#FFCDD2",
+        "light": "#ffffff",
+        "dark": "#cb9ca1",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "200",
+        "color": "#EF9A9A",
+        "light": "#ffcccb",
+        "dark": "#ba6b6c",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "300",
+        "color": "#E57373",
+        "light": "#ffa4a2",
+        "dark": "#af4448",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "400",
+        "color": "#EF5350",
+        "light": "#ff867c",
+        "dark": "#b61827",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "500",
+        "color": "#F44336",
+        "light": "#ff7961",
+        "dark": "#ba000d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "600",
+        "color": "#E53935",
+        "light": "#ff6f60",
+        "dark": "#ab000d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "700",
+        "color": "#D32F2F",
+        "light": "#ff6659",
+        "dark": "#9a0007",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Red",
+        "weight": "800",
+        "color": "#C62828",
+        "light": "#ff5f52",
+        "dark": "#8e0000",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Red",
+        "weight": "900",
+        "color": "#B71C1C",
+        "light": "#f05545",
+        "dark": "#7f0000",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Red",
+        "weight": "A100",
+        "color": "#FF8A80",
+        "light": "#ffbcaf",
+        "dark": "#c85a54",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "A200",
+        "color": "#FF5252",
+        "light": "#ff867f",
+        "dark": "#c50e29",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "A400",
+        "color": "#FF1744",
+        "light": "#ff616f",
+        "dark": "#c4001d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Red",
+        "weight": "A700",
+        "color": "#D50000",
+        "light": "#ff5131",
+        "dark": "#9b0000",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Pink",
+        "weight": "50",
+        "color": "#FCE4EC",
+        "light": "#ffffff",
+        "dark": "#c9b2ba",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "100",
+        "color": "#F8BBD0",
+        "light": "#ffeeff",
+        "dark": "#c48b9f",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "200",
+        "color": "#F48FB1",
+        "light": "#ffc1e3",
+        "dark": "#bf5f82",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "300",
+        "color": "#F06292",
+        "light": "#ff94c2",
+        "dark": "#ba2d65",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "400",
+        "color": "#EC407A",
+        "light": "#ff77a9",
+        "dark": "#b4004e",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "500",
+        "color": "#E91E63",
+        "light": "#ff6090",
+        "dark": "#b0003a",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "600",
+        "color": "#D81B60",
+        "light": "#ff5c8d",
+        "dark": "#a00037",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Pink",
+        "weight": "700",
+        "color": "#C2185B",
+        "light": "#fa5788",
+        "dark": "#8c0032",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Pink",
+        "weight": "800",
+        "color": "#AD1457",
+        "light": "#e35183",
+        "dark": "#78002e",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Pink",
+        "weight": "900",
+        "color": "#880E4F",
+        "light": "#bc477b",
+        "dark": "#560027",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Pink",
+        "weight": "A100",
+        "color": "#FF80AB",
+        "light": "#ffb2dd",
+        "dark": "#c94f7c",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "A200",
+        "color": "#FF4081",
+        "light": "#ff79b0",
+        "dark": "#c60055",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "A400",
+        "color": "#F50057",
+        "light": "#ff5983",
+        "dark": "#bb002f",
+        "text": "#000000"
+    },
+    {
+        "name:": "Pink",
+        "weight": "A700",
+        "color": "#C51162",
+        "light": "#fd558f",
+        "dark": "#8e0038",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Purple",
+        "weight": "50",
+        "color": "#F3E5F5",
+        "light": "#ffffff",
+        "dark": "#c0b3c2",
+        "text": "#000000"
+    },
+    {
+        "name:": "Purple",
+        "weight": "100",
+        "color": "#E1BEE7",
+        "light": "#fff1ff",
+        "dark": "#af8eb5",
+        "text": "#000000"
+    },
+    {
+        "name:": "Purple",
+        "weight": "200",
+        "color": "#CE93D8",
+        "light": "#ffc4ff",
+        "dark": "#9c64a6",
+        "text": "#000000"
+    },
+    {
+        "name:": "Purple",
+        "weight": "300",
+        "color": "#BA68C8",
+        "light": "#ee98fb",
+        "dark": "#883997",
+        "text": "#000000"
+    },
+    {
+        "name:": "Purple",
+        "weight": "400",
+        "color": "#AB47BC",
+        "light": "#df78ef",
+        "dark": "#790e8b",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Purple",
+        "weight": "500",
+        "color": "#9C27B0",
+        "light": "#d05ce3",
+        "dark": "#6a0080",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Purple",
+        "weight": "600",
+        "color": "#8E24AA",
+        "light": "#c158dc",
+        "dark": "#5c007a",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Purple",
+        "weight": "700",
+        "color": "#7B1FA2",
+        "light": "#ae52d4",
+        "dark": "#4a0072",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Purple",
+        "weight": "800",
+        "color": "#6A1B9A",
+        "light": "#9c4dcc",
+        "dark": "#38006b",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Purple",
+        "weight": "900",
+        "color": "#4A148C",
+        "light": "#7c43bd",
+        "dark": "#12005e",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Purple",
+        "weight": "A100",
+        "color": "#EA80FC",
+        "light": "#ffb2ff",
+        "dark": "#b64fc8",
+        "text": "#000000"
+    },
+    {
+        "name:": "Purple",
+        "weight": "A200",
+        "color": "#E040FB",
+        "light": "#ff79ff",
+        "dark": "#aa00c7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Purple",
+        "weight": "A400",
+        "color": "#D500F9",
+        "light": "#ff5bff",
+        "dark": "#9e00c5",
+        "text": "#000000"
+    },
+    {
+        "name:": "Purple",
+        "weight": "A700",
+        "color": "#AA00FF",
+        "light": "#e254ff",
+        "dark": "#7200ca",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "50",
+        "color": "#EDE7F6",
+        "light": "#ffffff",
+        "dark": "#bbb5c3",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "100",
+        "color": "#D1C4E9",
+        "light": "#fff7ff",
+        "dark": "#a094b7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "200",
+        "color": "#B39DDB",
+        "light": "#e6ceff",
+        "dark": "#836fa9",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "300",
+        "color": "#9575CD",
+        "light": "#c7a4ff",
+        "dark": "#65499c",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "400",
+        "color": "#7E57C2",
+        "light": "#b085f5",
+        "dark": "#4d2c91",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "500",
+        "color": "#673AB7",
+        "light": "#9a67ea",
+        "dark": "#320b86",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "600",
+        "color": "#5E35B1",
+        "light": "#9162e4",
+        "dark": "#280680",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "700",
+        "color": "#512DA8",
+        "light": "#8559da",
+        "dark": "#140078",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "800",
+        "color": "#4527A0",
+        "light": "#7953d2",
+        "dark": "#000070",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "900",
+        "color": "#311B92",
+        "light": "#6746c3",
+        "dark": "#000063",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "A100",
+        "color": "#B388FF",
+        "light": "#e7b9ff",
+        "dark": "#805acb",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "A200",
+        "color": "#7C4DFF",
+        "light": "#b47cff",
+        "dark": "#3f1dcb",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "A400",
+        "color": "#651FFF",
+        "light": "#a255ff",
+        "dark": "#0100ca",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Purple",
+        "weight": "A700",
+        "color": "#6200EA",
+        "light": "#9d46ff",
+        "dark": "#0a00b6",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "50",
+        "color": "#E8EAF6",
+        "light": "#ffffff",
+        "dark": "#b6b8c3",
+        "text": "#000000"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "100",
+        "color": "#C5CAE9",
+        "light": "#f8fdff",
+        "dark": "#9499b7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "200",
+        "color": "#9FA8DA",
+        "light": "#d1d9ff",
+        "dark": "#6f79a8",
+        "text": "#000000"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "300",
+        "color": "#7986CB",
+        "light": "#aab6fe",
+        "dark": "#49599a",
+        "text": "#000000"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "400",
+        "color": "#5C6BC0",
+        "light": "#8e99f3",
+        "dark": "#26418f",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "500",
+        "color": "#3F51B5",
+        "light": "#757de8",
+        "dark": "#002984",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "600",
+        "color": "#3949AB",
+        "light": "#6f74dd",
+        "dark": "#00227b",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "700",
+        "color": "#303F9F",
+        "light": "#666ad1",
+        "dark": "#001970",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "800",
+        "color": "#283593",
+        "light": "#5f5fc4",
+        "dark": "#001064",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "900",
+        "color": "#1A237E",
+        "light": "#534bae",
+        "dark": "#000051",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "A100",
+        "color": "#8C9EFF",
+        "light": "#c0cfff",
+        "dark": "#5870cb",
+        "text": "#000000"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "A200",
+        "color": "#536DFE",
+        "light": "#8f9bff",
+        "dark": "#0043ca",
+        "text": "#000000"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "A400",
+        "color": "#3D5AFE",
+        "light": "#8187ff",
+        "dark": "#0031ca",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Indigo",
+        "weight": "A700",
+        "color": "#304FFE",
+        "light": "#7a7cff",
+        "dark": "#0026ca",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Blue",
+        "weight": "50",
+        "color": "#E3F2FD",
+        "light": "#ffffff",
+        "dark": "#b1bfca",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "100",
+        "color": "#BBDEFB",
+        "light": "#eeffff",
+        "dark": "#8aacc8",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "200",
+        "color": "#90CAF9",
+        "light": "#c3fdff",
+        "dark": "#5d99c6",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "300",
+        "color": "#64B5F6",
+        "light": "#9be7ff",
+        "dark": "#2286c3",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "400",
+        "color": "#42A5F5",
+        "light": "#80d6ff",
+        "dark": "#0077c2",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "500",
+        "color": "#2196F3",
+        "light": "#6ec6ff",
+        "dark": "#0069c0",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "600",
+        "color": "#1E88E5",
+        "light": "#6ab7ff",
+        "dark": "#005cb2",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "700",
+        "color": "#1976D2",
+        "light": "#63a4ff",
+        "dark": "#004ba0",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "800",
+        "color": "#1565C0",
+        "light": "#5e92f3",
+        "dark": "#003c8f",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Blue",
+        "weight": "900",
+        "color": "#0D47A1",
+        "light": "#5472d3",
+        "dark": "#002171",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Blue",
+        "weight": "A100",
+        "color": "#82B1FF",
+        "light": "#b6e3ff",
+        "dark": "#4d82cb",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "A200",
+        "color": "#448AFF",
+        "light": "#83b9ff",
+        "dark": "#005ecb",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "A400",
+        "color": "#2979FF",
+        "light": "#75a7ff",
+        "dark": "#004ecb",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue",
+        "weight": "A700",
+        "color": "#2962FF",
+        "light": "#768fff",
+        "dark": "#0039cb",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "50",
+        "color": "#E1F5FE",
+        "light": "#ffffff",
+        "dark": "#afc2cb",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "100",
+        "color": "#B3E5FC",
+        "light": "#e6ffff",
+        "dark": "#82b3c9",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "200",
+        "color": "#81D4FA",
+        "light": "#b6ffff",
+        "dark": "#4ba3c7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "300",
+        "color": "#4FC3F7",
+        "light": "#8bf6ff",
+        "dark": "#0093c4",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "400",
+        "color": "#29B6F6",
+        "light": "#73e8ff",
+        "dark": "#0086c3",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "500",
+        "color": "#03A9F4",
+        "light": "#67daff",
+        "dark": "#007ac1",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "600",
+        "color": "#039BE5",
+        "light": "#63ccff",
+        "dark": "#006db3",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "700",
+        "color": "#0288D1",
+        "light": "#5eb8ff",
+        "dark": "#005b9f",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "800",
+        "color": "#0277BD",
+        "light": "#58a5f0",
+        "dark": "#004c8c",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "900",
+        "color": "#01579B",
+        "light": "#4f83cc",
+        "dark": "#002f6c",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "A100",
+        "color": "#80D8FF",
+        "light": "#b5ffff",
+        "dark": "#49a7cc",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "A200",
+        "color": "#40C4FF",
+        "light": "#82f7ff",
+        "dark": "#0094cc",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "A400",
+        "color": "#00B0FF",
+        "light": "#69e2ff",
+        "dark": "#0081cb",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Blue",
+        "weight": "A700",
+        "color": "#0091EA",
+        "light": "#64c1ff",
+        "dark": "#0064b7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "50",
+        "color": "#E0F7FA",
+        "light": "#ffffff",
+        "dark": "#aec4c7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "100",
+        "color": "#B2EBF2",
+        "light": "#e5ffff",
+        "dark": "#81b9bf",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "200",
+        "color": "#80DEEA",
+        "light": "#b4ffff",
+        "dark": "#4bacb8",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "300",
+        "color": "#4DD0E1",
+        "light": "#88ffff",
+        "dark": "#009faf",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "400",
+        "color": "#26C6DA",
+        "light": "#6ff9ff",
+        "dark": "#0095a8",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "500",
+        "color": "#00BCD4",
+        "light": "#62efff",
+        "dark": "#008ba3",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "600",
+        "color": "#00ACC1",
+        "light": "#5ddef4",
+        "dark": "#007c91",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "700",
+        "color": "#0097A7",
+        "light": "#56c8d8",
+        "dark": "#006978",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "800",
+        "color": "#00838F",
+        "light": "#4fb3bf",
+        "dark": "#005662",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "900",
+        "color": "#006064",
+        "light": "#428e92",
+        "dark": "#00363a",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "A100",
+        "color": "#84FFFF",
+        "light": "#baffff",
+        "dark": "#4bcbcc",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "A200",
+        "color": "#18FFFF",
+        "light": "#76ffff",
+        "dark": "#00cbcc",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "A400",
+        "color": "#00E5FF",
+        "light": "#6effff",
+        "dark": "#00b2cc",
+        "text": "#000000"
+    },
+    {
+        "name:": "Cyan",
+        "weight": "A700",
+        "color": "#00B8D4",
+        "light": "#62ebff",
+        "dark": "#0088a3",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "50",
+        "color": "#E0F2F1",
+        "light": "#ffffff",
+        "dark": "#aebfbe",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "100",
+        "color": "#B2DFDB",
+        "light": "#e5ffff",
+        "dark": "#82ada9",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "200",
+        "color": "#80CBC4",
+        "light": "#b2fef7",
+        "dark": "#4f9a94",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "300",
+        "color": "#4DB6AC",
+        "light": "#82e9de",
+        "dark": "#00867d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "400",
+        "color": "#26A69A",
+        "light": "#64d8cb",
+        "dark": "#00766c",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "500",
+        "color": "#009688",
+        "light": "#52c7b8",
+        "dark": "#00675b",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "600",
+        "color": "#00897B",
+        "light": "#4ebaaa",
+        "dark": "#005b4f",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "700",
+        "color": "#00796B",
+        "light": "#48a999",
+        "dark": "#004c40",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Teal",
+        "weight": "800",
+        "color": "#00695C",
+        "light": "#439889",
+        "dark": "#003d33",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Teal",
+        "weight": "900",
+        "color": "#004D40",
+        "light": "#39796b",
+        "dark": "#00251a",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Teal",
+        "weight": "A100",
+        "color": "#A7FFEB",
+        "light": "#dbffff",
+        "dark": "#75ccb9",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "A200",
+        "color": "#64FFDA",
+        "light": "#9effff",
+        "dark": "#14cba8",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "A400",
+        "color": "#1DE9B6",
+        "light": "#6effe8",
+        "dark": "#00b686",
+        "text": "#000000"
+    },
+    {
+        "name:": "Teal",
+        "weight": "A700",
+        "color": "#00BFA5",
+        "light": "#5df2d6",
+        "dark": "#008e76",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "50",
+        "color": "#E8F5E9",
+        "light": "#ffffff",
+        "dark": "#b6c2b7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "100",
+        "color": "#C8E6C9",
+        "light": "#fbfffc",
+        "dark": "#97b498",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "200",
+        "color": "#A5D6A7",
+        "light": "#d7ffd9",
+        "dark": "#75a478",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "300",
+        "color": "#81C784",
+        "light": "#b2fab4",
+        "dark": "#519657",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "400",
+        "color": "#66BB6A",
+        "light": "#98ee99",
+        "dark": "#338a3e",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "500",
+        "color": "#4CAF50",
+        "light": "#80e27e",
+        "dark": "#087f23",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "600",
+        "color": "#43A047",
+        "light": "#76d275",
+        "dark": "#00701a",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "700",
+        "color": "#388E3C",
+        "light": "#6abf69",
+        "dark": "#00600f",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "800",
+        "color": "#2E7D32",
+        "light": "#60ad5e",
+        "dark": "#005005",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Green",
+        "weight": "900",
+        "color": "#1B5E20",
+        "light": "#4c8c4a",
+        "dark": "#003300",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Green",
+        "weight": "A100",
+        "color": "#B9F6CA",
+        "light": "#ecfffd",
+        "dark": "#88c399",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "A200",
+        "color": "#69F0AE",
+        "light": "#9fffe0",
+        "dark": "#2bbd7e",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "A400",
+        "color": "#00E676",
+        "light": "#66ffa6",
+        "dark": "#00b248",
+        "text": "#000000"
+    },
+    {
+        "name:": "Green",
+        "weight": "A700",
+        "color": "#00C853",
+        "light": "#5efc82",
+        "dark": "#009624",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "50",
+        "color": "#F1F8E9",
+        "light": "#ffffff",
+        "dark": "#bec5b7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "100",
+        "color": "#DCEDC8",
+        "light": "#fffffb",
+        "dark": "#aabb97",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "200",
+        "color": "#C5E1A5",
+        "light": "#f8ffd7",
+        "dark": "#94af76",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "300",
+        "color": "#AED581",
+        "light": "#e1ffb1",
+        "dark": "#7da453",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "400",
+        "color": "#9CCC65",
+        "light": "#cfff95",
+        "dark": "#6b9b37",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "500",
+        "color": "#8BC34A",
+        "light": "#bef67a",
+        "dark": "#5a9216",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "600",
+        "color": "#7CB342",
+        "light": "#aee571",
+        "dark": "#4b830d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "700",
+        "color": "#689F38",
+        "light": "#99d066",
+        "dark": "#387002",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "800",
+        "color": "#558B2F",
+        "light": "#85bb5c",
+        "dark": "#255d00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "900",
+        "color": "#33691E",
+        "light": "#629749",
+        "dark": "#003d00",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "A100",
+        "color": "#CCFF90",
+        "light": "#ffffc2",
+        "dark": "#99cc60",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "A200",
+        "color": "#B2FF59",
+        "light": "#e7ff8c",
+        "dark": "#7ecb20",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "A400",
+        "color": "#76FF03",
+        "light": "#b0ff57",
+        "dark": "#32cb00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Light Green",
+        "weight": "A700",
+        "color": "#64DD17",
+        "light": "#9cff57",
+        "dark": "#1faa00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "50",
+        "color": "#F9FBE7",
+        "light": "#ffffff",
+        "dark": "#c6c8b5",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "100",
+        "color": "#F0F4C3",
+        "light": "#fffff6",
+        "dark": "#bdc192",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "200",
+        "color": "#E6EE9C",
+        "light": "#ffffce",
+        "dark": "#b3bc6d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "300",
+        "color": "#DCE775",
+        "light": "#ffffa6",
+        "dark": "#a8b545",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "400",
+        "color": "#D4E157",
+        "light": "#ffff89",
+        "dark": "#a0af22",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "500",
+        "color": "#CDDC39",
+        "light": "#ffff6e",
+        "dark": "#99aa00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "600",
+        "color": "#C0CA33",
+        "light": "#f5fd67",
+        "dark": "#8c9900",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "700",
+        "color": "#AFB42B",
+        "light": "#e4e65e",
+        "dark": "#7c8500",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "800",
+        "color": "#9E9D24",
+        "light": "#d2ce56",
+        "dark": "#6c6f00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "900",
+        "color": "#827717",
+        "light": "#b4a647",
+        "dark": "#524c00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "A100",
+        "color": "#F4FF81",
+        "light": "#ffffb3",
+        "dark": "#bfcc50",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "A200",
+        "color": "#EEFF41",
+        "light": "#ffff78",
+        "dark": "#b8cc00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "A400",
+        "color": "#C6FF00",
+        "light": "#fdff58",
+        "dark": "#90cc00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Lime",
+        "weight": "A700",
+        "color": "#AEEA00",
+        "light": "#e4ff54",
+        "dark": "#79b700",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "50",
+        "color": "#FFFDE7",
+        "light": "#ffffff",
+        "dark": "#cccab5",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "100",
+        "color": "#FFF9C4",
+        "light": "#fffff7",
+        "dark": "#cbc693",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "200",
+        "color": "#FFF59D",
+        "light": "#ffffcf",
+        "dark": "#cbc26d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "300",
+        "color": "#FFF176",
+        "light": "#ffffa8",
+        "dark": "#cabf45",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "400",
+        "color": "#FFEE58",
+        "light": "#ffff8b",
+        "dark": "#c9bc1f",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "500",
+        "color": "#FFEB3B",
+        "light": "#ffff72",
+        "dark": "#c8b900",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "600",
+        "color": "#FDD835",
+        "light": "#ffff6b",
+        "dark": "#c6a700",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "700",
+        "color": "#FBC02D",
+        "light": "#fff263",
+        "dark": "#c49000",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "800",
+        "color": "#F9A825",
+        "light": "#ffd95a",
+        "dark": "#c17900",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "900",
+        "color": "#F57F17",
+        "light": "#ffb04c",
+        "dark": "#bc5100",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "A100",
+        "color": "#FFFF8D",
+        "light": "#ffffbf",
+        "dark": "#cacc5d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "A200",
+        "color": "#FFFF00",
+        "light": "#ffff5a",
+        "dark": "#c7cc00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "A400",
+        "color": "#FFEA00",
+        "light": "#ffff56",
+        "dark": "#c7b800",
+        "text": "#000000"
+    },
+    {
+        "name:": "Yellow",
+        "weight": "A700",
+        "color": "#FFD600",
+        "light": "#ffff52",
+        "dark": "#c7a500",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "50",
+        "color": "#FFF8E1",
+        "light": "#ffffff",
+        "dark": "#ccc5af",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "100",
+        "color": "#FFECB3",
+        "light": "#ffffe5",
+        "dark": "#cbba83",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "200",
+        "color": "#FFE082",
+        "light": "#ffffb3",
+        "dark": "#caae53",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "300",
+        "color": "#FFD54F",
+        "light": "#ffff81",
+        "dark": "#c8a415",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "400",
+        "color": "#FFCA28",
+        "light": "#fffd61",
+        "dark": "#c79a00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "500",
+        "color": "#FFC107",
+        "light": "#fff350",
+        "dark": "#c79100",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "600",
+        "color": "#FFB300",
+        "light": "#ffe54c",
+        "dark": "#c68400",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "700",
+        "color": "#FFA000",
+        "light": "#ffd149",
+        "dark": "#c67100",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "800",
+        "color": "#FF8F00",
+        "light": "#ffc046",
+        "dark": "#c56000",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "900",
+        "color": "#FF6F00",
+        "light": "#ffa040",
+        "dark": "#c43e00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "A100",
+        "color": "#FFE57F",
+        "light": "#ffffb0",
+        "dark": "#cab350",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "A200",
+        "color": "#FFD740",
+        "light": "#ffff74",
+        "dark": "#c8a600",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "A400",
+        "color": "#FFC400",
+        "light": "#fff64f",
+        "dark": "#c79400",
+        "text": "#000000"
+    },
+    {
+        "name:": "Amber",
+        "weight": "A700",
+        "color": "#FFAB00",
+        "light": "#ffdd4b",
+        "dark": "#c67c00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "50",
+        "color": "#FFF3E0",
+        "light": "#ffffff",
+        "dark": "#ccc0ae",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "100",
+        "color": "#FFE0B2",
+        "light": "#ffffe4",
+        "dark": "#cbae82",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "200",
+        "color": "#FFCC80",
+        "light": "#ffffb0",
+        "dark": "#ca9b52",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "300",
+        "color": "#FFB74D",
+        "light": "#ffe97d",
+        "dark": "#c88719",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "400",
+        "color": "#FFA726",
+        "light": "#ffd95b",
+        "dark": "#c77800",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "500",
+        "color": "#FF9800",
+        "light": "#ffc947",
+        "dark": "#c66900",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "600",
+        "color": "#FB8C00",
+        "light": "#ffbd45",
+        "dark": "#c25e00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "700",
+        "color": "#F57C00",
+        "light": "#ffad42",
+        "dark": "#bb4d00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "800",
+        "color": "#EF6C00",
+        "light": "#ff9d3f",
+        "dark": "#b53d00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "900",
+        "color": "#E65100",
+        "light": "#ff833a",
+        "dark": "#ac1900",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "A100",
+        "color": "#FFD180",
+        "light": "#ffffb1",
+        "dark": "#caa052",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "A200",
+        "color": "#FFAB40",
+        "light": "#ffdd71",
+        "dark": "#c77c02",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "A400",
+        "color": "#FF9100",
+        "light": "#ffc246",
+        "dark": "#c56200",
+        "text": "#000000"
+    },
+    {
+        "name:": "Orange",
+        "weight": "A700",
+        "color": "#FF6D00",
+        "light": "#ff9e40",
+        "dark": "#c43c00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "50",
+        "color": "#FBE9E7",
+        "light": "#ffffff",
+        "dark": "#c8b7b5",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "100",
+        "color": "#FFCCBC",
+        "light": "#ffffee",
+        "dark": "#cb9b8c",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "200",
+        "color": "#FFAB91",
+        "light": "#ffddc1",
+        "dark": "#c97b63",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "300",
+        "color": "#FF8A65",
+        "light": "#ffbb93",
+        "dark": "#c75b39",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "400",
+        "color": "#FF7043",
+        "light": "#ffa270",
+        "dark": "#c63f17",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "500",
+        "color": "#FF5722",
+        "light": "#ff8a50",
+        "dark": "#c41c00",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "600",
+        "color": "#F4511E",
+        "light": "#ff844c",
+        "dark": "#b91400",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "700",
+        "color": "#E64A19",
+        "light": "#ff7d47",
+        "dark": "#ac0800",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "800",
+        "color": "#D84315",
+        "light": "#ff7543",
+        "dark": "#9f0000",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "900",
+        "color": "#BF360C",
+        "light": "#f9683a",
+        "dark": "#870000",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "A100",
+        "color": "#FF9E80",
+        "light": "#ffd0b0",
+        "dark": "#c96f53",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "A200",
+        "color": "#FF6E40",
+        "light": "#ffa06d",
+        "dark": "#c53d13",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "A400",
+        "color": "#FF3D00",
+        "light": "#ff7539",
+        "dark": "#c30000",
+        "text": "#000000"
+    },
+    {
+        "name:": "Deep Orange",
+        "weight": "A700",
+        "color": "#DD2C00",
+        "light": "#ff6434",
+        "dark": "#a30000",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Brown",
+        "weight": "50",
+        "color": "#EFEBE9",
+        "light": "#ffffff",
+        "dark": "#bdb9b7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Brown",
+        "weight": "100",
+        "color": "#D7CCC8",
+        "light": "#fffffb",
+        "dark": "#a69b97",
+        "text": "#000000"
+    },
+    {
+        "name:": "Brown",
+        "weight": "200",
+        "color": "#BCAAA4",
+        "light": "#efdcd5",
+        "dark": "#8c7b75",
+        "text": "#000000"
+    },
+    {
+        "name:": "Brown",
+        "weight": "300",
+        "color": "#A1887F",
+        "light": "#d3b8ae",
+        "dark": "#725b53",
+        "text": "#000000"
+    },
+    {
+        "name:": "Brown",
+        "weight": "400",
+        "color": "#8D6E63",
+        "light": "#be9c91",
+        "dark": "#5f4339",
+        "text": "#000000"
+    },
+    {
+        "name:": "Brown",
+        "weight": "500",
+        "color": "#795548",
+        "light": "#a98274",
+        "dark": "#4b2c20",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Brown",
+        "weight": "600",
+        "color": "#6D4C41",
+        "light": "#9c786c",
+        "dark": "#40241a",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Brown",
+        "weight": "700",
+        "color": "#5D4037",
+        "light": "#8b6b61",
+        "dark": "#321911",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Brown",
+        "weight": "800",
+        "color": "#4E342E",
+        "light": "#7b5e57",
+        "dark": "#260e04",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Brown",
+        "weight": "900",
+        "color": "#3E2723",
+        "light": "#6a4f4b",
+        "dark": "#1b0000",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Grey",
+        "weight": "50",
+        "color": "#FAFAFA",
+        "light": "#ffffff",
+        "dark": "#c7c7c7",
+        "text": "#000000"
+    },
+    {
+        "name:": "Grey",
+        "weight": "100",
+        "color": "#F5F5F5",
+        "light": "#ffffff",
+        "dark": "#c2c2c2",
+        "text": "#000000"
+    },
+    {
+        "name:": "Grey",
+        "weight": "200",
+        "color": "#EEEEEE",
+        "light": "#ffffff",
+        "dark": "#bcbcbc",
+        "text": "#000000"
+    },
+    {
+        "name:": "Grey",
+        "weight": "300",
+        "color": "#E0E0E0",
+        "light": "#ffffff",
+        "dark": "#aeaeae",
+        "text": "#000000"
+    },
+    {
+        "name:": "Grey",
+        "weight": "400",
+        "color": "#BDBDBD",
+        "light": "#efefef",
+        "dark": "#8d8d8d",
+        "text": "#000000"
+    },
+    {
+        "name:": "Grey",
+        "weight": "500",
+        "color": "#9E9E9E",
+        "light": "#cfcfcf",
+        "dark": "#707070",
+        "text": "#000000"
+    },
+    {
+        "name:": "Grey",
+        "weight": "600",
+        "color": "#757575",
+        "light": "#a4a4a4",
+        "dark": "#494949",
+        "text": "#000000"
+    },
+    {
+        "name:": "Grey",
+        "weight": "700",
+        "color": "#616161",
+        "light": "#8e8e8e",
+        "dark": "#373737",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Grey",
+        "weight": "800",
+        "color": "#424242",
+        "light": "#6d6d6d",
+        "dark": "#1b1b1b",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Grey",
+        "weight": "900",
+        "color": "#212121",
+        "light": "#484848",
+        "dark": "#000000",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "50",
+        "color": "#ECEFF1",
+        "light": "#ffffff",
+        "dark": "#babdbe",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "100",
+        "color": "#CFD8DC",
+        "light": "#ffffff",
+        "dark": "#9ea7aa",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "200",
+        "color": "#B0BEC5",
+        "light": "#e2f1f8",
+        "dark": "#808e95",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "300",
+        "color": "#90A4AE",
+        "light": "#c1d5e0",
+        "dark": "#62757f",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "400",
+        "color": "#78909C",
+        "light": "#a7c0cd",
+        "dark": "#4b636e",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "500",
+        "color": "#607D8B",
+        "light": "#8eacbb",
+        "dark": "#34515e",
+        "text": "#000000"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "600",
+        "color": "#546E7A",
+        "light": "#819ca9",
+        "dark": "#29434e",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "700",
+        "color": "#455A64",
+        "light": "#718792",
+        "dark": "#1c313a",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "800",
+        "color": "#37474F",
+        "light": "#62727b",
+        "dark": "#102027",
+        "text": "#FFFFFF"
+    },
+    {
+        "name:": "Blue Grey",
+        "weight": "900",
+        "color": "#263238",
+        "light": "#4f5b62",
+        "dark": "#000a12",
+        "text": "#FFFFFF"
+    }
+]

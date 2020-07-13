@@ -1,0 +1,25 @@
+<html>
+    
+    <header>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.1.0/chroma.min.js"></script>
+        <script type="text/javascript" src="material-colors.js"></script>
+    </header>
+
+    <body>
+        <pre id="json"></pre>
+    </body>
+
+    <script>
+        var grouppedName = new Object()
+        var grouppedWeight = new Array()
+
+        $.each( colors, function( key, value ) {
+            colors[key].light = chroma(value.color).brighten().hex();
+            colors[key].dark = chroma(value.color).darken().hex();
+            colors[key].text = chroma.contrast(value.color, '#000000') >= 4.5 ? "#000000" : "#FFFFFF";
+        });
+
+        document.getElementById("json").innerHTML = JSON.stringify(colors, null, 2);
+    </script>
+</html>
